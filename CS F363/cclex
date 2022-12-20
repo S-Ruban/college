@@ -1,0 +1,4 @@
+file=$(basename $1 .l)
+lex -o $file.yy.c $file.l
+cc $file.yy.c -ll -o $file
+./$file

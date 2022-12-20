@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_9_2019A7PS0097H/Parity.xst" -ofn "D:/College/CS/F215/Exp_9_2019A7PS0097H/Parity.syr" 
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_9_2019A7PS0097H/Parity.xst" -ofn "D:/College/CS/F215/Exp_9_2019A7PS0097H/Parity.syr" 

@@ -1,0 +1,10 @@
+[Inputs]
+D
+En
+[Outputs]
+Q
+Qbar
+[BiDir]
+[ATTRIBUTES]
+VeriModel D_latch
+

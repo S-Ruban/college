@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.1\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/College/CS/F215/Exp_4_2019A7PS0097H/majority_isim_beh.exe -prj D:/College/CS/F215/Exp_4_2019A7PS0097H/majority_beh.prj work.majority work.glbl 
+ISim P.15xf (signature 0xc3576ebc)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/College/CS/F215/Exp_4_2019A7PS0097H/Exp_4_2019A7PS0097H_2.v" into library work
+Analyzing Verilog file "D:/College/CS/F215/Exp_4_2019A7PS0097H/majority.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Exp_4_2019A7PS0097H_2
+Compiling module majority
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\majority_isim_beh.exe.sim\libPortability.dll".
+Compiled 3 Verilog Units
+Built simulation executable D:/College/CS/F215/Exp_4_2019A7PS0097H/majority_isim_beh.exe
+Fuse Memory Usage: 28048 KB
+Fuse CPU Usage: 531 ms

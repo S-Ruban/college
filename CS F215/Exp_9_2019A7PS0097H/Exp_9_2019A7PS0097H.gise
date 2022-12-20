@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Exp_9_2019A7PS0097H.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="FullAdder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FullAdder_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Mux_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Mux_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Parity.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Parity.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Parity.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Parity.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Parity.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Parity.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Parity.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Parity.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Parity_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Parity_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Parity_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Parity_summary.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Parity_test_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Parity_test_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Parity_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decode_3x8_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decode_3x8_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="decoder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="decoder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="decoder.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="decoder.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="decoder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="decoder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="decoder_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decoder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="decoder_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="decoder_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="decoder_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fulladdertest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="fulladdertest_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fulladdertest_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="muxtest_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="oddparitygen_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="oddparitygen_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="oddparitygen_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="oddparitygen_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1603697185" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1603697185">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603770825" xil_pn:in_ck="3101419736449975943" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1603770825">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="FullAdder.v"/>
+      <outfile xil_pn:name="Mux.v"/>
+      <outfile xil_pn:name="Parity.v"/>
+      <outfile xil_pn:name="Parity_test.v"/>
+      <outfile xil_pn:name="decode_3x8.v"/>
+      <outfile xil_pn:name="decoder.v"/>
+      <outfile xil_pn:name="fulladdertest.v"/>
+      <outfile xil_pn:name="muxtest.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1604565938" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3413499268595226319" xil_pn:start_ts="1604565938">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604565938" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-8832239718772217111" xil_pn:start_ts="1604565938">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603726891" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-4561911510374968905" xil_pn:start_ts="1603726891">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603770831" xil_pn:in_ck="3101419736449975943" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1603770830">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="FullAdder.v"/>
+      <outfile xil_pn:name="Mux.v"/>
+      <outfile xil_pn:name="Parity.v"/>
+      <outfile xil_pn:name="Parity_test.v"/>
+      <outfile xil_pn:name="decode_3x8.v"/>
+      <outfile xil_pn:name="decoder.v"/>
+      <outfile xil_pn:name="fulladdertest.v"/>
+      <outfile xil_pn:name="muxtest.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1604565941" xil_pn:in_ck="3101419736449975943" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-4720230337233213282" xil_pn:start_ts="1604565938">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1604565862" xil_pn:in_ck="-7914931416862084113" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3363943886236853037" xil_pn:start_ts="1604565861">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <outfile xil_pn:name="fulladdertest_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+    <transform xil_pn:end_ts="1603697308" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1603697308">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603727980" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3174614260674516600" xil_pn:start_ts="1603727980">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603727980" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4561911510374968905" xil_pn:start_ts="1603727980">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603697308" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1603697308">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603727980" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-2835504255301364528" xil_pn:start_ts="1603727980">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603697308" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="4779560239316253549" xil_pn:start_ts="1603697308">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603727980" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-3755870607214583679" xil_pn:start_ts="1603727980">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1603767743" xil_pn:in_ck="-5319269830309619348" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="2338276886904748695" xil_pn:start_ts="1603767734">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Parity.lso"/>
+      <outfile xil_pn:name="Parity.ngc"/>
+      <outfile xil_pn:name="Parity.ngr"/>
+      <outfile xil_pn:name="Parity.prj"/>
+      <outfile xil_pn:name="Parity.stx"/>
+      <outfile xil_pn:name="Parity.syr"/>
+      <outfile xil_pn:name="Parity.xst"/>
+      <outfile xil_pn:name="Parity_stx_beh.prj"/>
+      <outfile xil_pn:name="Parity_test_stx_beh.prj"/>
+      <outfile xil_pn:name="Parity_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,4 @@
+verilog isim_temp "Four_bit_adder.v"
+verilog isim_temp "bcd_adder.v"
+verilog isim_temp "bcd.v"
+verilog isim_temp "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"

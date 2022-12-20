@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.1\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/College/CS/F215/Exp_10_2019A7PS0097H/JK_FF_test_isim_beh.exe -prj D:/College/CS/F215/Exp_10_2019A7PS0097H/JK_FF_test_beh.prj work.JK_FF_test work.glbl 
+ISim P.15xf (signature 0xc3576ebc)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/College/CS/F215/Exp_10_2019A7PS0097H/DD_FF_R.v" into library work
+Analyzing Verilog file "D:/College/CS/F215/Exp_10_2019A7PS0097H/JK_FF.v" into library work
+Analyzing Verilog file "D:/College/CS/F215/Exp_10_2019A7PS0097H/JK_FF_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module DD_FF_R
+Compiling module JK_FF
+Compiling module JK_FF_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\JK_FF_test_isim_beh.exe.sim\libPortability.dll".
+Compiled 4 Verilog Units
+Built simulation executable D:/College/CS/F215/Exp_10_2019A7PS0097H/JK_FF_test_isim_beh.exe
+Fuse Memory Usage: 28268 KB
+Fuse CPU Usage: 468 ms

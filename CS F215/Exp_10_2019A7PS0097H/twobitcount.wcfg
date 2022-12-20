@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/College/CS/F215/Exp_10_2019A7PS0097H/twobitcounttest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="twobitcounttest" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/twobitcounttest/Q_B" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Q_B</obj_property>
+      <obj_property name="ObjectShortName">Q_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twobitcounttest/Q_A" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Q_A</obj_property>
+      <obj_property name="ObjectShortName">Q_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twobitcounttest/Clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twobitcounttest/Reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+</wave_config>

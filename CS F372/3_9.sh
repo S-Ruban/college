@@ -1,0 +1,1 @@
+ts=$(date +%s%N) ; for i in `seq 1 100`; do ./3_9 $i; done  ; tt=$((($(date +%s%N) - $ts)/1000000)) ; echo "Average time taken: `expr $tt / 100` milliseconds"

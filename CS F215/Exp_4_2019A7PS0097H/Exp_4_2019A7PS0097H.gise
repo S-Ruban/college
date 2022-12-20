@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Exp_4_2019A7PS0097H.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Exp_4_2019A7PS0097H_2_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Exp_4_2019A7PS0097H_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Exp_4_2019A7PS0097H_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="majority_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="majority_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="majority_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="majority_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="parity_gen_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="parity_gen_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1600654536" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1600654536">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949675" xil_pn:in_ck="1554288396974418238" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1600949675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Exp_4_2019A7PS0097H.v"/>
+      <outfile xil_pn:name="Exp_4_2019A7PS0097H_2.v"/>
+      <outfile xil_pn:name="majority.v"/>
+      <outfile xil_pn:name="parity_gen.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949681" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="864579646145862310" xil_pn:start_ts="1600949681">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949681" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5848816776129668702" xil_pn:start_ts="1600949681">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600654543" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-7151416407563864900" xil_pn:start_ts="1600654543">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949681" xil_pn:in_ck="1554288396974418238" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1600949681">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Exp_4_2019A7PS0097H.v"/>
+      <outfile xil_pn:name="Exp_4_2019A7PS0097H_2.v"/>
+      <outfile xil_pn:name="majority.v"/>
+      <outfile xil_pn:name="parity_gen.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949684" xil_pn:in_ck="1554288396974418238" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2284637744751252216" xil_pn:start_ts="1600949681">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="majority_beh.prj"/>
+      <outfile xil_pn:name="majority_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1600949732" xil_pn:in_ck="3286648454734370604" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="2209600150084797547" xil_pn:start_ts="1600949732">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="majority_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

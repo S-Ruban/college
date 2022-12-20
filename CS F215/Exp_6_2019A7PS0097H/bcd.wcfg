@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/College/CS/F215/Exp_6_2019A7PS0097H/bcd_isim_beh1.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="bcd" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/bcd/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bcd/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bcd/S" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bcd/C_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">C_out</obj_property>
+      <obj_property name="ObjectShortName">C_out</obj_property>
+   </wvobject>
+</wave_config>

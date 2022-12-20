@@ -1,0 +1,3 @@
+vhdtdtfi -lib work D:/College/CS/F215/Exp_10_2019A7PS0097H/D_latch.v -lang verilog -prj Exp_10_2019A7PS0097H -o D_latch.spl -module D_latch -template C:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 D_latch.spl D:/College/CS/F215/Exp_10_2019A7PS0097H/D_latch.sym 
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_10_2019A7PS0097H/D_latch.xst" -ofn "D:/College/CS/F215/Exp_10_2019A7PS0097H/D_latch.syr" 

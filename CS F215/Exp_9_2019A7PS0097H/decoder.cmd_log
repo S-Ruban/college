@@ -1,0 +1,5 @@
+vhdtdtfi -lib work D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.v -lang verilog -prj Exp_9_2019A7PS0097H -o decoder.spl -module decoder -template C:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 decoder.spl D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.sym 
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.xst" -ofn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.syr" 
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.xst" -ofn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.syr" 
+xst -intstyle ise -ifn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.xst" -ofn "D:/College/CS/F215/Exp_9_2019A7PS0097H/decoder.syr" 

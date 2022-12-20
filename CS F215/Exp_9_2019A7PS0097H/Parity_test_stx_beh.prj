@@ -1,0 +1,4 @@
+verilog isim_temp "decoder.v"
+verilog isim_temp "Parity.v"
+verilog isim_temp "Parity_test.v"
+verilog isim_temp "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"

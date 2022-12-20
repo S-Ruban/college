@@ -1,0 +1,4 @@
+verilog work "Four_bit_adder.v"
+verilog work "bcd_adder.v"
+verilog work "bcd.v"
+verilog work "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"
